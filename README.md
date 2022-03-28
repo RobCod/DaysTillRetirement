@@ -9,4 +9,4 @@ How to use:
 3. If you want the program to start when you login; add an Application autostart entry with `-terminator -e "bash -c '~/DaysTillRetirement.sh;echo Press any key to close this window...;read -sn1 null'"` Replace "Terminator" with your preferred terminal program and path where you put it.
 
 
-If it won't run just open up a terminal and type chmod +x `DaysTillRetirement` and hit enter
+If it won't run just open up a terminal and type chmod +x `DaysTillRetirement.sh` and hit enter
